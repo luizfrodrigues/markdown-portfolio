@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+:zap: Things I love to do :zap:
+
+* Cooking
+* Reading.
+* Coding.
+* Playing some mobile games.
